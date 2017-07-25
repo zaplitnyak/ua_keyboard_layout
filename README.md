@@ -27,10 +27,11 @@ cp ~/Downloads/ua.bak /usr/share/X11/xkb/symbols/ua
 
 ## Windows
 
-Works fine with Windows 10.
+Works fine with Windows 10. Installer and layout created with [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
-1. Swith to `windows` branch
-2. Run
+1. Ensure you have [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/en-us/download/details.aspx?id=1639) already installed
+2. Swith to `windows` branch
+3. Run `windows/bin/ua/setup.exe`
 ```
 go to ~/Downloads
 git clone git@github.com:zaplitnyak/ua_keyboard_layout.git
