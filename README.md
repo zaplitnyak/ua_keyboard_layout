@@ -11,9 +11,9 @@ cd ~/Downloads
 git clone git@github.com:zaplitnyak/ua_keyboard_layout.git
 
 ```
-or just [download ubuntu](https://github.com/zaplitnyak/ua_keyboard_layout/archive/ubuntu.zip) branch archive
+or just [download ubuntu](https://github.com/zaplitnyak/ua_keyboard_layout/archive/ubuntu.zip) branch archive and extract it.
 ```
-cd ua_keyboard_layout
+cd ./ua_keyboard_layout
 cp -f ./ubuntu/ua /usr/share/X11/xkb/symbols/ua
 ```
 
@@ -24,5 +24,5 @@ Comming soon...
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
