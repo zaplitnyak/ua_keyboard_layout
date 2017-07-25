@@ -1,6 +1,6 @@
 # ua_keyboard_layout
 Standard layout with one modification.
-## Ububtu
+## Ubuntu
 
 Works fine with Ubuntu 16.04.
 
