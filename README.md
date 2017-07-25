@@ -36,9 +36,9 @@ go to ~/Downloads
 git clone git@github.com:zaplitnyak/ua_keyboard_layout.git
 ```
 or just [download windows](https://github.com/zaplitnyak/ua_keyboard_layout/archive/windows.zip) branch archive and extract it.
-```
 
 go to `ua_keyboard_layout-windows/windows/bin/ua/setup.exe` and run it. 
+
 
 ## License
 
